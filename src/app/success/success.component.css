@@ -1,0 +1,13 @@
+.success {
+  width: fit-content;
+  margin: 1px;
+  padding-inline: 2px;
+  background-color: rgb(240, 25, 23);
+}
+h3 {
+  padding: 2rem;
+}
+.success:hover {
+  background-color: green;
+  color: white;
+}

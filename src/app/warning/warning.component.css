@@ -1,0 +1,13 @@
+.warning {
+  width: fit-content;
+  margin: 1px;
+  padding-inline: 2px;
+  background-color: rgb(240, 210, 230);
+}
+h3 {
+  padding: 2rem;
+}
+.warning:hover {
+  background-color: red;
+  color: white;
+}
